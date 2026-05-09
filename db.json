@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "brand": "SoundMax",
+      "category": "Electronics",
+      "price": 50.99,
+      "stock": 25,
+      "rating": 4.5,
+      "image": "https://i.ibb.co.com/4pDNDk1/headphone.jpg",
+      "description": "High-quality wireless headphones with noise cancellation and long battery life."
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch Pro",
+      "brand": "TechTime",
+      "category": "Wearables",
+      "price": 89.99,
+      "stock": 18,
+      "rating": 4.3,
+      "image": "https://i.ibb.co.com/F7nL0VN/smartwatch.jpg",
+      "description": "Modern smartwatch with fitness tracking, heart rate monitor, and notifications."
+    },
+    {
+      "id": 3,
+      "name": "Gaming Mechanical Keyboard",
+      "brand": "KeyForce",
+      "category": "Accessories",
+      "price": 74.5,
+      "stock": 12,
+      "rating": 4.7,
+      "image": "https://i.ibb.co.com/T1J8N0t/keyboard.jpg",
+      "description": "RGB mechanical keyboard designed for gamers with customizable lighting effects."
+    },
+    {
+      "id": 4,
+      "name": "4K Ultra HD Monitor",
+      "brand": "ViewPixel",
+      "category": "Monitors",
+      "price": 299.99,
+      "stock": 8,
+      "rating": 4.8,
+      "image": "https://i.ibb.co.com/JH5y7tV/monitor.jpg",
+      "description": "27-inch 4K UHD monitor with vibrant colors and ultra-thin bezels."
+    },
+    {
+      "id": 5,
+      "name": "Portable SSD 1TB",
+      "brand": "DataFast",
+      "category": "Storage",
+      "price": 119.99,
+      "stock": 20,
+      "rating": 4.6,
+      "image": "https://i.ibb.co.com/2n9s7nR/ssd.jpg",
+      "description": "High-speed portable SSD with 1TB storage and USB-C connectivity."
+    }
+  ]
+}
