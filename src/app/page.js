@@ -58,6 +58,7 @@ export default function Home() {
           >
             Documentation
           </a>
+          <button className="btn btn-primary">Click me</button>
         </div>
       </main>
     </div>
