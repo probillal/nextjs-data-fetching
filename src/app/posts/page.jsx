@@ -1,16 +1,16 @@
-// const getPosts = async () => {
-//   const res = await fetch("https://jsonplaceholder.typicode.com/posts");
-//   return res.json();
-// };
-
 const getPosts = async () => {
-  try {
-    const res = await fetch("https://jsonplaceholder.typicode.com/posts");
-    return res.json();
-  } catch (error) {
-    throw new Error("Failed to fetch posts");
-  }
+  const res = await fetch("https://jsonplaceholder.typicode.com/posts");
+  return res.json();
 };
+
+// const getPosts = async () => {
+//   try {
+//     const res = await fetch("https://jsonplaceholder.typicode.com/posts");
+//     return res.json();
+//   } catch (error) {
+//     throw new Error("Failed to fetch posts");
+//   }
+// };
 const PostsPage = async () => {
   //   const res = await fetch("https://jsonplaceholder.typicode.com/posts");
   //   const posts = await res.json();
